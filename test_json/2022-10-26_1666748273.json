@@ -1,0 +1,1764 @@
+{
+    "misc_info": {
+        "data_count": {
+            "input": 6,
+            "filter": 0,
+            "error": 0
+        },
+        "calc_time": 3.81027889251709,
+        "pcs_id": "test",
+        "pcs_sn": "001"
+    },
+    "ai_result": [
+        {
+            "index": 7,
+            "file_index": 1,
+            "url": "./input/images/images_1026_AM/test/001/images/102-06-10878_20170813187_9613_606108.jpg",
+            "part_name": "front_fender_left",
+            "part_score": 0.999,
+            "part_damage_type": [
+                "complex_damage"
+            ],
+            "part_mask": {
+                "size": [
+                    600,
+                    800
+                ],
+                "counts": "\\k[2c0Qb08H8I6K4L4M3M3M2N2N3M2N2O2M2N3M2O2M2N3M2N2N2N3M2N2N2N2N3N1N2N2M3M4L3M3N3M2N2N2N2N2N3M2N2N2N3M3M2N2N2N2N3M2N2N2O1N2N2O1N2O1N2O1M3N2M3N2N2N1O2N2N1O2N1O2N101N1O2N2N1O2M2O2N2M2O2N2N2N1O2N2N1O2O0O2O0O2O0O2O0O100O101O0O10000O10000O100O10000O10000O10000O100O1O100O10O10O100O1000000O10O10O100000O10O0100O10O0100O1O1O010O1O1O001N2O1O1N2O010O1O1O1O001O1O1O010O1O10O01O10O0100O001O1O001O001O010O000100O0100O10000O100O10O0100O100O1O100O100O01000O100000000O1000O10000000O10000000000O0100000000000000000000O100000000000000000000O10000000000000000O1O2N100O1O100O100O100O100O100O2O0000000O101O00001O1O1O001O001O001O001N101O00001O0000001O0000001O1O1O1O1O1O1O1O1O1O0O2O1O001O001O1O3M2N4L2N1O2N1O1O1N2O1O1O1O1O1O001O1O1N2O1O8H6I3N1O1O1N2O2N1N3N5J;F6J4L3L3N;E6I3N2N2M2O1O1N2O1O1O1O1N2O1O1O1O1O1O001O001O001O001N10001O000000001O0000O100000000O1000000O1000O0100O100O100O1O1O1O1O1O1N2N2N2L4M3O1O1N2O1N2N2N2N2N3M2_Oa0K5L4\\OdGhF`8T9d0M4L3]OhFcG[9\\8a0O1N2O2M2L4_Oa0K6I6@a0hNW1bN_1@?I8I7I6E<K5K5L4L4H9E<B>G=CQ\\`3"
+            },
+            "damage-summary-mask": [
+                [
+                    168.6441093311643,
+                    137.29282293533745
+                ],
+                [
+                    574.5654783938592,
+                    137.29282293533745
+                ],
+                [
+                    574.5654783938592,
+                    459.88116561623286
+                ],
+                [
+                    168.6441093311643,
+                    459.88116561623286
+                ]
+            ],
+            "damage-result-section": [
+                "DGRGXX"
+            ],
+            "damage-summary-ratio": 0.8599,
+            "damage-result-list": "complex_damage",
+            "damage-result-code": "DGCL06"
+        },
+        {
+            "index": 12,
+            "file_index": 2,
+            "url": "./input/images/images_1026_AM/test/001/images/105-03-67423_201563357_64저3738_2054145.jpg",
+            "part_name": "rear_fender_left",
+            "part_score": 0.9998,
+            "part_damage_type": [
+                "dent"
+            ],
+            "part_mask": {
+                "size": [
+                    600,
+                    800
+                ],
+                "counts": "`YX4`0Vb06J5K5K5K4K5M2M2N3M3K4L5M2O1N2O1N3N1O1O010O1M3O1N101N101O000010O01O0O2N100O2O00O100O1N2M3L3M3L4N2101N2O1O100O001O001O00001N100O100000O11O1O1N101N2O1N2O1O1O1O1O1O1N2O1O1O1N2O1N2N2M3M3M3M3N2N2O1N2O1O1O1N2M3L4M3M3L5M2N2O1N2N2N2J6G9J6L4N2M3N3M3M3L4L4L3K6I7I6I8I6cLkHTKX7j4mHQKU7n4nHnJT7Q5PIkJR7S5SIgJo6Y5]IYJe6f5cIQJ_6o5gIXIl6h6b20O10000001O001O00001O0000000000001O00O10000000000O1O100O1O1O1O1O1N2O1O1O1O10000O10000O1O100O100O1O100O1O1O1O1O1N2O100000000O100000000O1000000O100O100O100O100O1O100O1O10000O10000000000000000001O0000O1000000000000O10000000000000000001O00000001O1O1O1N3N1O2N3M3L4M3M4L2N1O1O2M2O2N2`I`Fd3b9SLlFf3V9SLTGh3P9nK^Gj3c8RLbGl3_8QLeGl3\\8SLfGl3[8RLhGl3Y8RLjGl3V8SLmGk3T8SLoGk3S8RLPHl3Q8RLUHh3n7ULWHg3k7VL[He3g7WL\\Hh3g7TL[Hk3h7PL[Hn3Y;O2N1O2N1N3N2M4M1N1O2O1N3M2N3M2M4M3L4M3M2O1N2N2O1N3M2O2M3M4L3M3M3M3L4M4J9H9F9F=BdXX4"
+            },
+            "damage-summary-mask": [
+                [
+                    233.6672966022444,
+                    292.5414201921953
+                ],
+                [
+                    411.99631536393395,
+                    292.5414201921953
+                ],
+                [
+                    411.99631536393395,
+                    375.4332658953203
+                ],
+                [
+                    233.6672966022444,
+                    375.4332658953203
+                ]
+            ],
+            "damage-result-section": [
+                "DGRGXX"
+            ],
+            "damage-summary-ratio": 0.1517,
+            "damage-result-list": "no_complex",
+            "damage-result-code": "DGCLXX"
+        },
+        {
+            "index": 19,
+            "file_index": 3,
+            "url": "./input/images/images_1026_AM/test/001/images/105-41-61644_20110513259_55마2492_71949.jpg",
+            "part_name": "rear_door_right",
+            "part_score": 0.9997,
+            "part_damage_type": [
+                "scratch"
+            ],
+            "part_mask": {
+                "size": [
+                    600,
+                    800
+                ],
+                "counts": "fnd1d0Pb08H7G8D=K5J7J7H5K5J6L5I7I7K4L5L3L4M3M3M3M2N2N2N2N2O1N2N2O1O2M3N2M3N2N1N2O1O1N2O1O1N2O1N2O1N2O1N2O1O1N2O1O1O001O1O1O1O001O1O1O010O1O100O1O100O1O1O1O1O1N2O1O1N2O1N101O1N101O1O0O2O1O001O1N2O001O1O1N101O1O1O001O001O001O001O00001O001O001O1O1O1O1O1O1O1N2O1O001O1O001O001O1O1O1O1O1O1O1O001N2O1O001O001O001O1O2N1O1O1O1O1O1N2O1O1O1O0O2O1O1O2M2O2N2M2O2M2O2M2O1N2O1N2O1N101N2O001O1N2O2N1O1O1O1O1N2O1O1O1O1O1O001O1O1N2O001O1O1O1O001O001O001O001O001O001N10001O000000001N10000000001O0O100000001N10000O100O010O100O100O01000O100000O10O100000O10O100000000000O0100000000000O10000000000O010O100O100O100O1O100O1O100O100O10000O1000000O1000000O10000O0100000O100O10000O100O001O1O100O00100O10O10O10O10O0100O010O0100O010O00100O010O1O010O10000O10000O1000000O1000000O10000O10000O1000O0100O100O1O100O1O100O1O10000O100O10000O10000O10000O100O100O100O1O100O1O1O1O1O001O100O1000000O100O100O100O1O100O1O1O1O1O1O100O1O100O1O2O0O1O1O1O1O1O1O2M2O2N1N3M2N3L3M4M3N2N2N2N2M3N2M3M3M4K5L4E<WOj0G7I6I7J6N2N2M3N3M2M4L4L4L4L4L<[Ok0POX1XNc\\n3"
+            },
+            "damage-summary-mask": [
+                [
+                    350.2866673647912,
+                    397.5272238105907
+                ],
+                [
+                    447.7792944396821,
+                    397.5272238105907
+                ],
+                [
+                    447.7792944396821,
+                    471.75644567779773
+                ],
+                [
+                    350.2866673647912,
+                    471.75644567779773
+                ]
+            ],
+            "damage-result-section": [
+                "DGRGXX"
+            ],
+            "damage-summary-ratio": 0.0464,
+            "damage-result-list": "no_complex",
+            "damage-result-code": "DGCLXX"
+        },
+        {
+            "index": 0,
+            "file_index": 0,
+            "url": "./input/images/images_1026_AM/test/001/images/101-02-83235_20151106161_67오7643_418987.jpg",
+            "part_name": "rear_bumper",
+            "part_score": 0.9994,
+            "part_damage_type": [
+                "scratch"
+            ],
+            "part_mask": {
+                "size": [
+                    600,
+                    800
+                ],
+                "counts": "b:V8b:0O10000O10000000000O100001O00000000001O000000001O0000001O000000000000001O00000000001O00000000001O00000000001O00000000001O00000000001O000000001O000000001O00001O0000001O001O001O001O0000000000001O000000000000001O000000000000000000001O00000000000000000000000000001O00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000O10000000000000000000000000000000000O10000000000000000000000O100000000000000O10000O100O10000O1O1000000O1000O0100000O1000O10O10000000O100000000000O10O10000000000000000O100000000000O10000000000O100000000O10000O1000000O10000O01000O1000O01000O10O10O010O0100O010O010O10O01O1O001O1O1O001O1O1O00100O100O01000O100O1O010O100O10000O10O01O1000000001O000000001N1000001O00000000000O1000000O100000O01000O010O01O010O0100O001O10O01O1O1O001O1O1O1O0O2O1O1N2O010O1000000O010O100O10O01O100O1O10O0100O100O100O10O01O10O0100O01O010O01O010O0010O01O001O010O010O010O001O010O1O001O10O01O001O00001O010O0100O010O010O0100O010O100O10O01O100O1O001O1O100O001O10O01O100O010O1O1O001O1O00001O001O001O001O001O00100O001O010O1O010O1O0010O0000000001O00001O00001O000010O0010O010O0010O0O1O100O100N2O100O1O1O10O001O1O1O1O11O001O010O010O01O001O1O1O1O001O2N1O1O1O1O1N3L3N3M2N3M2O2N2N2N2N2M3N2N2N2N2N2N2M201M3L4M3L4L4L4K5F:I7J6J7K5K5L5K6I6K4L5J6J6J6Kf_\\2"
+            },
+            "damage-summary-mask": [
+                [
+                    484.53168226893706,
+                    404.12294763579337
+                ],
+                [
+                    524.0594193227868,
+                    404.12294763579337
+                ],
+                [
+                    524.0594193227868,
+                    433.5051653093828
+                ],
+                [
+                    484.53168226893706,
+                    433.5051653093828
+                ]
+            ],
+            "damage-result-section": [
+                "DGRGXX"
+            ],
+            "damage-summary-ratio": 0.0078,
+            "damage-result-list": "no_complex",
+            "damage-result-code": "DGCLXX"
+        },
+        {
+            "index": 1,
+            "file_index": 0,
+            "url": "./input/images/images_1026_AM/test/001/images/101-02-83235_20151106161_67오7643_418987.jpg",
+            "part_name": "rear_lamp_left",
+            "part_score": 0.9973,
+            "part_damage_type": "",
+            "part_mask": {
+                "size": [
+                    600,
+                    800
+                ],
+                "counts": "jf0W5Z=;I5K4M3N2N2N2O1N101N101O000O101O0001O00000000O1000000000000O100000000000000001O0000O1000000000O100000000000000O2O00000O100000O010000O100O1O100O2O0O1O100O2N001O1O1O0O2N200O100O100O100O10001N1O001O1N2O1O1O1000O010000O101O0O100O100O1O1O1O1O0O2L4O1000000O101N1O1O1O1O1O1N2M3O00100O100O1O1O1O1N2M3O101N100000O0100O100O1O1O1O1N2M3O2O00000O1000000O10000O10O01O1O1O1O2N1O100O10000O1000000000000O10000O10001O0O100O101N010O10000O100000000O1000001N10001N100O100001O000O101O0001N10000O2O00000O100001O0000000O100000O2O00000O10001N100O2O0O2N101N2N2N2N2M4M3L5K9CPmb9"
+            },
+            "damage-summary-mask": [],
+            "damage-result-section": [
+                "DGRGXX"
+            ],
+            "damage-summary-ratio": 0.0,
+            "damage-result-list": "no_complex",
+            "damage-result-code": "DGCLXX"
+        },
+        {
+            "index": 3,
+            "file_index": 0,
+            "url": "./input/images/images_1026_AM/test/001/images/101-02-83235_20151106161_67오7643_418987.jpg",
+            "part_name": "trunk",
+            "part_score": 0.971,
+            "part_damage_type": "",
+            "part_mask": {
+                "size": [
+                    600,
+                    800
+                ],
+                "counts": "4o3h>2O0O2O0YG^LW2d3eMgLS2Y3kMlLQ2U3mMoLQ2Q3mMRMR2n2lMUMS2k2kMXMT2i2iMZMV2f2iM\\MV2d2hM_MW2a2hMaMW2_2hMcMW2]2hMeMW2[2hMfMX2Z2gMhMX2X2gMiMY2W2gMjMX2W2fMjMZ2V2eMlMZ2T2fMlMZ2T2eMnMZ2R2fMnMZ2R2eMPNZ2P2fMPNZ2P2eMRNZ2n1fMRNZ2n1eMTNZ2l1fMTNZ2l1fMUNY2k1fMVNZ2j1fMVNZ2j1fMWNY2i1fMXNZ2h1fMXNZ2h1eMZNZ2f1fMZNZ2f1fMZNZ2f1eM[N[2e1eM\\NZ2d1fM\\NZ2d1eM]N[2c1eM^NZ2b1fM^NZ2b1eM_N[2b1dM_N[2a1eM_N[2a1eM_N[2a1eM`NZ2`1eMaN[2_1dMbN\\2^1dMbN\\2^1cMdN\\2\\1cMeN]2[1bMfN^2Z1aMhN^2X1aMiN_2W1`MkN_2U1`MlN`2T1_MmNa2S1^MnNb2R1]MPOb2P1]MQOc2o0\\MSOc2m0\\MTOd2l0[MUOe2k0ZMVOf2j0ZMVOf2j0YMXOf2h0ZMXOf2h0YMYOg2g0YMYOg2g0XMZOh2f0XM[Og2e0XM\\Oh2c0YM]Og2c0XM^Oh2b0XM^Oh2b0XM^Oh2b0WM@h2`0XM@h2`0XM@h2`0WMAi2?WMAi2?VMBj2>VMBj2>VMBj2>VMBj2>UMCk2=UMCk2=TMDl2<SMEm2;SMEm2;RMFn2:QMGo29PMHP38oLIQ37nLJR36mLKS35lLLT34jLNV32iLOW32gLOY31fL0Z30eL1[3OdL2\\3NcL3]3MbL4^3LaL5_3K`L6`3J_L7a3I^L9a3G^L:b3F^L:b3F]L;c3D]L=c3C]L=c3C\\L>d3B\\L>d3B[L?e3AYLa0g3_OVLd0j3\\OTLf0l3ZORLh0n3XOPLj0P4VOoKk0Q4UOnKl0R4TOmKm0S4SOlKn0T4ROkKo0U4QOjKP1V4POiKQ1W4oNiKQ1W4oNhKR1X4nNgKS1Y4mNgKS1Y4mNfKT1Z4lNfKT1Z4lNeKU1[4kNeKU1[4kNeKU1[4kNdKV1\\4jNdKV1\\4jNcKW1]4iNcKW1]4iNbKX1^4hNbKX1^4hNaKY1_4gNaKY1_4hN_KY1a4gN_KY1a4gN^KZ1b4fN^KZ1b4fN]K[1c4eN]K[1c4eN]K[1c4eN\\K\\1d4dN[K]1e4cNZK^1f4bNXK`1h4`NXK`1h4`NWKa1i4_NVKb1j4^NUKc1k4]NTKd1l4\\NSKe1m4[NSKe1m4[NRKf1n4ZNQKg1o4YNQKg1o4YNPKh1P5WNPKj1P5VNPKj1P5VNoJk1Q5UNoJk1Q5UNnJl1R5TNnJl1R5TNmJm1S5SNmJm1S5SNlJn1T5RNlJn1T5RNlJn1T5RNkJo1U5QNkJo1U5QNkJo1U5QNjJP2V5PNjJP2V5QNiJo1W5QNhJP2X5PNhJP2X5PNhJP2X5PNgJQ2Y5oMgJQ2Y5oMgJQ2Y5oMfJR2Z5nMfJR2Z5nMfJR2Z5oMeJQ2[5oMdJR2\\5nMdJR2\\5nMdJR2\\5nMdJR2\\5nMcJS2]5mMcJS2]5mMcJS2]5mMcJS2]5mMcJS2]5mMbJT2^5lMbJT2^5lMbJT2^5lMbJT2^5lMbJT2^5lMbJT2^5lMbJT2^5lMbJT2^5lMbJT2^5lMaJU2_5kMaJU2_5kMaJU2_5kMaJU2_5kMaJU2_5kMaJU2_5kMaJU2_5kMaJU2_5kMaJU2_5kMaJU2_5kMaJU2_5kMaJU2_5kM`JV2`5iMaJW2_5iMaJW2_5iMaJW2_5iMaJW2_5iMaJW2_5iMaJW2_5iMaJW2_5jM`JV2`5jM`JV2`5jM`JV2`5jM_JW2a5iM_JW2a5iM_JW2a5iM_JW2a5iM_JW2a5iM_JW2a5iM_JW2a5iM_JW2a5iM_JV2b5jM^JV2b5jM]JW2c5iM]JW2c5iM]JW2c5iM]JW2c5iM]JW2c5iM\\JX2d5hM\\JX2d5hM\\JX2d5hM\\JX2d5hM\\JX2d5hM\\JX2d5hM[JY2e5gM[JY2e5gM[JY2e5gM[JY2e5gM[JY2e5gM[JY2e5gMZJZ2f5fMZJZ2f5fMZJZ2f5fMZJZ2f5fMZJY2g5gMYJY2g5gMXJZ2h5fMXJZ2h5fMXJZ2h5fMXJZ2h5fMXJZ2h5fMXJZ2h5fMXJZ2h5fMWJ[2i5eMWJ[2i5eMWJ[2i5eMWJ[2i5eMWJZ2j5fMVJZ2j5fMVJZ2j5fMVJZ2j5fMWJY2i5gMWJY2i5gMWJX2j5hMVJX2j5hMVJX2j5hMVJX2j5hMVJX2j5hMWJV2j5jMVJV2j5jMVJV2j5jMVJV2j5jMVJV2j5jMVJU2k5kMVJT2j5lMVJT2j5lMWJR2j5nMVJR2j5nMWJQ2i5oMWJQ2i5oMXJ\\NlNk0m6i0WJYNoNn0j6i0XJTNSOQ1f6k0XJaMEc1S6l0YJ^MFe1R6m0YJZMIh1n5n0ZJWMJk1l5n0[JTMKm1k5o0\\JWLmNLo0n2h5o0_JQLd0P3m4o0oLQOQ3o0oLPOR3P1nLPOR3P1oLoNQ3Q1cIQL[2n2R4Q1`IWL[2h2U4Q1^I[L[2c2X4Q1]I_LY2`2Z4Q1\\IbLX2]2\\4Q1[IdLX2[2]4Q1ZIfLX2Y2^4Q1YIhLX2W2_4Q1XIjLX2U2`4Q1WIlLX2R2b4R1VImLW2Q2c4R1UIoLW2o1d4R1UIPMV2n1e4R1TIQMW2m1e4R1TIQMW2m1e4R1SISMV2l1g4Q1SISMV2l1g4Q1RIUMV2j1h4Q1RIUMV2i1i4R1PIWMV2g1j4R1PIWMU2h1k4Q1oHYMU2f1l4Q1oHYMU2f1l4Q1oHYMU2f1l4Q1nHZMU2f1m4P1nHZMU2f1m4P1nHZMU2f1m4P1nH[MT2e1n4P1mH\\MU2d1n4P1mH\\MT2d1P5P1lH\\MT2d1P5P1lH\\MT2d1P5Q1jH\\MV2c1P5Q1jH]MU2b1Q5Q1jH]MT2c1R5P1jH]MT2c1R5P1jH]MT2c1R5P1jH]MT2c1R5h2nJXMR5h2mJXMT5h2lJXMT5o0iH_MS2b1T5o0iH_MS2b1T5o0iH_MS2b1T5o0iH_MS2b1T5o0iH`MR2`1V5P1hH`MR2`1V5P1hH`MR2`1V5P1hH`MR2`1V5P1hH`MR2`1V5P1hH`MR2`1V5P1hH`MQ2`1X5P1gH`MQ2`1X5P1gH`MQ2`1X5P1gH`MQ2`1X5P1gHaMP2_1Y5P1gHaMP2_1Y5P1gHaMo1_1[5P1fHaMo1_1[5P1fHaMo1_1[5P1fHaMn1`1\\5o0fHaMn1`1\\5o0fHaMn1`1\\5o0fHaMm1`1^5o0eHaMm1`1^5j2aJWM_5i2aJWM_5i2`JWMa5h2`JXM`5h2_JYMa5g2_JYMa5g2^JZMb5f2^JYMc5g2\\JZMd5f2\\JYMe5g2ZJZMf5f2ZJZMf5f2YJZMh5f2XJZMh5f2XJZMh5e2XJ[Mi5e2WJ[Mi5e2WJ[Mi5e2WJZMj5f2VJZMj5f2VJZMj5f2UJ[Mk5e2UJZMl5f2TJZMl5f2TJZMl5f2TJZMl5f2SJ[Mm5e2SJZMn5f2RJZMn5f2RJZMn5f2RJZMn5f2RJZMn5f2RJZMn5f2QJZMP6f2PJZMP6f2PJZMP6f2PJZMP6f2PJZMP6f2PJZMP6f2oIZMR6f2nIZMR6f2nIZMR6f2nIZMR6f2mI[MS6e2mI[MS6e2mIZMT6f2kI[MU6e2kI[MU6e2kI[MU6e2jI[MW6e2iI[MW6e2hI\\MX6c2iI]MW6c2hI]MY6c2gI]MY6c2fI]M[6c2eI]M[6c2dI]M]6c2cI]M]6c2cI\\M^6d2aI]M_6c2aI\\M`6d2_I]Ma6c2_I\\Mb6c2_I]Mb6b2^I]Mc6c2]I]Mc6c2]I]Mc6c2]I\\Md6d2[I]Me6c2[I\\Mf6d2ZI\\Mf6d2ZI\\Mf6d2ZI\\Mf6d2ZI[Mg6e2XI\\Mh6d2XI\\Mh6d2XI[Mi6e2WI[Mi6e2WI[Mi6d2XI\\Mh6d2XI[Mi6e2WI[Mi6e2WI[Mi6e2WIZMj6f2VIZMj6f2UI[Mk6e2UIZMl6f2TIZMl6f2TIZMl6f2TIZMl6f2TIZMl6f2TIYMm6g2SIYMm6g2SIXMn6h2RIXMn6g2RIYMo6g2QIYMo6g2QIXMP7h2PIXMP7h2PIXMP7h2PIWMQ7i2oHWMR7h2nHWMS7i2lHXMT7h2lHXMT7h2lHWMU7i2kHWMU7i2kHWMV7h2jHWMW7i2iHWMW7i2hHXMX7h2hHWMY7i2gHWMY7i2gHWMY7i2gHWMZ7h2fHWM[7i2eHWM[7i2dHXM\\7h2dHWM]7i2cHWM]7i2cHWM^7h2aHXM`7h2`HXM`7h2`HXM`7h2_HXMb7h2^HXMb7h2^HXMb7h2]HXMd7h2\\HXMd7h2\\HWMe7i2ZHXMf7h2ZHWMg7i2YHWMg7i2XHWMi7i2WHWMj7h2VHWMk7j2SHWMm7i2SHVMn7j2QHWMo7i2QHVMP8j2oGWMQ8i2nGWMS8i2lGWMU8i2iGYMW8g2hGYMY8g2fGZMZ8f2dG\\M\\8d2cG\\M_8b2`G`M`8`2_G`Mb8`2]GaMc8_2\\GbMd8^2[GcMe8]2ZGdMg8Z2YGgMg8Y2XGgMi8c0iFfM=h1j8b0iFfM<i1l8`0hFgM<h1m8a0hFeM;k1n8?gFfM:l1o8>hFeM9l1Q9>fFfM8m1R9=gFeM7m1T9>dFeM7n1U9=eFdM6n1V9>dFcM6P2W9<dFcM4Q2Z9;bFdM3R2\\99bFcM3S2]99`FdM1T2a97_FdMOV2c95^FdMNY2e92^FdMLZ2h91\\FeMK[2j9O\\FdMJ^2k9M\\FdMH`2m9J\\FeMGa2o9I[FeMEc2Q:GZFeMEe2Q:F[F]1f9bN[F\\1f9dN[F[1e9eN\\FZ1d9fN]FY1d9fN]FY1c9gN^FZM^OV3U:@^FXM]OY3U:_O`FTM\\O^3U:\\OcFPMZOe3S:[OQGd0P9\\OoFe0Q9[OoFe0Q9[OnFf0S9YOmFf0T9ZOkFg0U9YOkFg0U9YOjFh0W9WOiFh0X9XOhFh0X9XOgFh0Z9YOeFg0\\9XOdFh0]9WObFj0^9VObFi0`9VO`Fj0`9VO`Fj0a9UO^Fk0c9UO]Fk0d9TO\\Fl0d9UO[Fj0g9UOYFk0g9UOYFj0i9UOVFl0j9TOVFk0k9UOUFk0l9TOTFk0m9UOSFk0n9TORFk0o9UOPFl0P:TOQFj0Q:UOoEj0R:UOoEk0Q:UOoEj0S:UOmEk0S:UOmEj0T:VOmEh0U:WOkEi0U:VOmEh0U:WOkEh0V:XOkEg0V:WOkEh0V:XOkEf0W:XOjEg0W:YOjEe0X:YOjEe0X:ZOhEe0Y:ZOiEd0Y:[OhEc0Z:[OhEc0Z:\\OgEb0[:\\OgEb0[:\\OgEb0[:]OfEa0\\:]OfE`0]:^OeE`0]:^OeE`0]:^OeE?^:_OgE;\\:CgE9[:EiE7Z:GjE3Z:KiE1Z:MiENZ:1jEJX:5PFCR:;WF[Ol9c0YFXOh9g0\\FTOg9j0]FPOg9n0S4N2N2N2M3M3L5J7HXTc2"
+            },
+            "damage-summary-mask": [],
+            "damage-result-section": [
+                "DGRGXX"
+            ],
+            "damage-summary-ratio": 0.0,
+            "damage-result-list": "no_complex",
+            "damage-result-code": "DGCLXX"
+        },
+        {
+            "index": 9,
+            "file_index": 1,
+            "url": "./input/images/images_1026_AM/test/001/images/102-06-10878_20170813187_9613_606108.jpg",
+            "part_name": "front_bumper",
+            "part_score": 0.9962,
+            "part_damage_type": "",
+            "part_mask": {
+                "size": [
+                    600,
+                    800
+                ],
+                "counts": "\\8\\3Z?4M2N2O2M2O1N2O0mBlLb:U3[EoLc:R3ZEQMe:o2ZESMe:n2YESMg:m2YETMf:l2ZETMg:l2WEVMh:j2XEVMi:i2WEWMi:i2WEWMj:i2UEXMj:h2VEWMk:h2VEXMk:g2UEYMk:g2UEYMl:e2VEYMk:g2UEYMl:f2TEYMm:h2SEWMn:i2REUMP;j2QETMgNAd;[3eERMfNGe;V3fEoLeNNf;Q3nEfL]N<d;m2bFUM^9j2aFYM^9g2aF[M]9e2bF]M]9c2cF_M[9b2cF`M\\9a2cF`M]9`2aFbM^9^2bFcM]9^2bFcM]9^2bFcM]9^2bFbM^9^2bFcM]9^2bFbM^9^2bFcM]9^2bFcM]9]2cFcM]9]2cFdM]9[2cFeM]9\\2bFeM]9[2cFgM[9Y2eFhMY9Y2gFhMX9X2iFhMV9X2jFiMU9W2kFjMT9V2lFkMS9V2kFlMT9U2kFkMU9U2jFnMT9S2gFQNY9o1eFTNZ9m1cFVN\\9j1bFYN]9h1`F[N_9e1^F`N`9a1[FdNd9\\1WFjNh9W1SFmNm9T1lESOS:o0dEXO[:d4O001O001O001O001O1O2N1O1O1O1O001O1O0O2O001O1O1O2N2M2O1O2N1N2O001N101O1N2O1O2M2O1N2O1O1O1O1O1O1O1O1O100O00100O010O010O010O01O100O2N2N3M3M4L8I4K2N1O2N1O2M3N3M2N1O1O2N2N1O2N1N2O001O1N3N1N3N2M3N1N2O1N2N2N3L4nN[DkJi;j4eDnJ`;m4gDhJ`;T5U1K5L4L4M3L4L5D;L4N1O2M2O2N1O2M3N1N3N2N2M4M2M4L4L4L4K3N3O1O1N101N2O1N2N100000000001O000000O2O001O001N101O1O1N2O1O1O2N1N2O1N2O1N2N2N3M3M3M3L4L5I8GkeP:"
+            },
+            "damage-summary-mask": [],
+            "damage-result-section": [
+                "DGRGXX"
+            ],
+            "damage-summary-ratio": 0.0,
+            "damage-result-list": "no_complex",
+            "damage-result-code": "DGCLXX"
+        },
+        {
+            "index": 14,
+            "file_index": 2,
+            "url": "./input/images/images_1026_AM/test/001/images/105-03-67423_201563357_64저3738_2054145.jpg",
+            "part_name": "rear_door_left",
+            "part_score": 0.9999,
+            "part_damage_type": "",
+            "part_mask": {
+                "size": [
+                    600,
+                    800
+                ],
+                "counts": "mSR1Y1Za0;[Oh0E9G4L7Ia0^O9G>C:F8H4L4M2N2N2N3M2N6K<C:G5J5L3L3N2N2N3M2N2M4M3M2N2N2N1O1N2O1O1O1O001O1N2O1O1O1O1O1O1O001O1O1O100O1N2O1O1O1O1O001O001O00001O00001O00001O0000001O0000001O000000001O001O001O001O001O001O001O001O1O001O001O1O1O1O001O1O001O0O2O001O00001O0000001O0000001O01O0001O00001O1O00001O0000001O000000000000001O00000000000000000000000000000000O100000000O100O100O1O1O1O1N2N2N2O1N2N2N2O1O1N2O1N2N2N2N2O1O1O1O1O1O1N2O001O1O1N2O1O1O1O1O1O100O010O01O010O01O00001O001O1O001O1O001O1O1O1N1O2N2O1O100O1O001O1O1O1O1N1O2O1N101O001O1N101O0O2O1O001N2O1O001O1O1N2N1O2N2N2O1O1O1O1O1N2N2N2I7K5O1O1O1O1O1O1O1N2O1K5I7L4M3O1N2N2N2M4L3J6H9E:L5M2O2M2N3M3L4M3J6I7I7H9I7H8I8G9E^ec7"
+            },
+            "damage-summary-mask": [],
+            "damage-result-section": [
+                "DGRGXX"
+            ],
+            "damage-summary-ratio": 0.0,
+            "damage-result-list": "no_complex",
+            "damage-result-code": "DGCLXX"
+        },
+        {
+            "index": 21,
+            "file_index": 3,
+            "url": "./input/images/images_1026_AM/test/001/images/105-41-61644_20110513259_55마2492_71949.jpg",
+            "part_name": "side_step_right",
+            "part_score": 0.9955,
+            "part_damage_type": "",
+            "part_mask": {
+                "size": [
+                    600,
+                    800
+                ],
+                "counts": "kcQ5<Xb06H8I7M2N2N2N2N2O0O2O0O2O00000O10000O10000O10000O10000O100O1O100O010O1O010O010O01O10O010O01000O01000000O10000O100O1000000O1000000O010000O01000O0100O10O0100O10O0100O001O100O10O010000O01000O010O10000O010O100O010O10O10O10O010O10O01O0010O010O010O1O010O10000O01000O1000O0100O1000O0100O10O10O010O01O10O01O010O010O010O01O010O010O010O10O010O0100O01000O10O1000O10O10O0100O001O001O0000100O010O01000O10O10O10O10O10O010O10O0100O00100O10O0100O0100O001O0010O01O0010O0010O010O1000O10O10O10O10O010O010O10O01O1O010O100O010O10O1O001O1O010O00010O01O0010O0100O10O01000O010O010O010O0100O00100O10O10O10O00100O001O000010O0010O01O010O1O010O100O010O0100O01O10O10O10O10O1000O01000O00100O001O001O0001O010O001O010O00100O10O010O10O0100O01000O10O10O1000O010O01O1O001O0010O00010O001O0010O01O010O10O010O01000O01000O10O10O10O100000O010000O0100O001O0010O00001O010O10O01O100O010O10O0100O0010O10O01000000O01000000O1000000O100O1O100O1O1O100O00100O10000O10001N1O1O1O2N1O1N2O2N101N2N2N2Nnol0"
+            },
+            "damage-summary-mask": [],
+            "damage-result-section": [
+                "DGRGXX"
+            ],
+            "damage-summary-ratio": 0.0,
+            "damage-result-list": "no_complex",
+            "damage-result-code": "DGCLXX"
+        },
+        {
+            "index": 24,
+            "file_index": 3,
+            "url": "./input/images/images_1026_AM/test/001/images/105-41-61644_20110513259_55마2492_71949.jpg",
+            "part_name": "front_door_right",
+            "part_score": 0.9973,
+            "part_damage_type": "",
+            "part_mask": {
+                "size": [
+                    600,
+                    800
+                ],
+                "counts": "Wji9`0Qb0:K4K6K4L3K5H8`IhNUKb1f4iNdJf1Z5^NaJf1\\5^N`Jd1_5^N_Jd1_5_N]Jc1b5_N\\Jb1c5`N[Ja1d5aNZJa1d5aNZJ_1f5dNRJb1n5iNkHS2T7UNSH]2m7iMgG\\2Y8hMbGZ2^8iM\\GZ2d8hMXGZ2h8jMSGW2l8nMjFW2W9PNYFY2g9\\30000001O00000000001N1000001N100O2O0O2O0O010O010O1000O010000O10O0100O100O1O1O10O01O1000O0100000O0100000000O100O100O1O1O1O1O10O01000000O1000000O100O100O100O100O1O1O001O1O100000000O010000O010O0100O10O0100O1O001O1O10O1000O0100O10O100O100O100O100O1O100N2O1O100O10000O01000O100O10O0100O1O1O1O1O1O1000000O1000000O10000O10O0100O100O1O100O1O1O1O010O10000O100O00100O100O10O01O1O1O1O10O010000O10O1000O10O0100O001O100O001O1O1O1O1O1N2O1O1O101N1O1O1O2N1O1N2O1O1N3M2O1N2N3M2N2N2N3L3N3K4KcM"
+            },
+            "damage-summary-mask": [],
+            "damage-result-section": [
+                "DGRGXX"
+            ],
+            "damage-summary-ratio": 0.0,
+            "damage-result-list": "no_complex",
+            "damage-result-code": "DGCLXX"
+        }
+    ],
+    "ai_info": [
+        {
+            "file": [
+                {
+                    "file_index": 0,
+                    "url": "./input/images/images_1026_AM/test/001/images/101-02-83235_20151106161_67오7643_418987.jpg",
+                    "shape": [
+                        600,
+                        800,
+                        3
+                    ],
+                    "service_code": [
+                        "AISC00"
+                    ],
+                    "mobile_class": "",
+                    "mobile_mode": "",
+                    "mobile_tiny": "",
+                    "mobile_part_code": "",
+                    "mobile_part_name": "",
+                    "aos_part_code": "",
+                    "aos_part_name": "",
+                    "aos_part_group": ""
+                }
+            ],
+            "filter": [
+                {
+                    "filter_class": 0,
+                    "filter_class_name": "Normal",
+                    "filter_score": 1.0,
+                    "filter_probs": [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    "filter_code": "AIFT00"
+                }
+            ],
+            "part": [
+                {
+                    "part_name": "rear_bumper",
+                    "part_score": 0.9994,
+                    "part_inbox_ratio": 0.8382,
+                    "part_rule_minsize": false,
+                    "part_rule_focus": false,
+                    "part_rule_close": false,
+                    "part_rule_dup": false,
+                    "part_rule_cont": false,
+                    "part_rule_out": false,
+                    "part_rule_adjust": false,
+                    "part_adjustable": false,
+                    "part_group_replace": "",
+                    "part_damage_type": [
+                        "scratch"
+                    ],
+                    "damage-scratch-area": 1161.4126,
+                    "damage-scratch-ratio": 0.0078,
+                    "damage-dent-area": "",
+                    "damage-dent-ratio": "",
+                    "damage-dent_press-area": "",
+                    "damage-dent_press-ratio": "",
+                    "damage-complex_damage-area": "",
+                    "damage-complex_damage-ratio": "",
+                    "damage-broken-area": "",
+                    "damage-broken-ratio": "",
+                    "damage-summary-area": 1161.4126,
+                    "damage-summary-ratio": 0.0078,
+                    "damage-result-area": "",
+                    "damage-result-ratio": 0.0078,
+                    "damage-result-section": [
+                        "DGRGXX"
+                    ],
+                    "damage-result-list": "no_complex",
+                    "damage-result-code": "DGCLXX",
+                    "index": 0,
+                    "merging_selected": true,
+                    "merging_rank": 1,
+                    "summary_result": true,
+                    "summary_adjust": false
+                },
+                {
+                    "part_name": "rear_lamp_left",
+                    "part_score": 0.9973,
+                    "part_inbox_ratio": 0.0614,
+                    "part_rule_minsize": false,
+                    "part_rule_focus": false,
+                    "part_rule_close": false,
+                    "part_rule_dup": false,
+                    "part_rule_cont": false,
+                    "part_rule_out": false,
+                    "part_rule_adjust": false,
+                    "part_adjustable": false,
+                    "part_group_replace": "",
+                    "part_damage_type": "",
+                    "damage-scratch-area": "",
+                    "damage-scratch-ratio": "",
+                    "damage-dent-area": "",
+                    "damage-dent-ratio": "",
+                    "damage-dent_press-area": "",
+                    "damage-dent_press-ratio": "",
+                    "damage-complex_damage-area": "",
+                    "damage-complex_damage-ratio": "",
+                    "damage-broken-area": "",
+                    "damage-broken-ratio": "",
+                    "damage-summary-area": "",
+                    "damage-summary-ratio": 0.0,
+                    "damage-result-area": "",
+                    "damage-result-ratio": "",
+                    "damage-result-section": [
+                        "DGRGXX"
+                    ],
+                    "damage-result-list": "no_complex",
+                    "damage-result-code": "DGCLXX",
+                    "index": 1,
+                    "merging_selected": true,
+                    "merging_rank": 1,
+                    "summary_result": true,
+                    "summary_adjust": false
+                },
+                {
+                    "part_name": "rear_stop_center",
+                    "part_score": 0.9847,
+                    "part_inbox_ratio": 0.3942,
+                    "part_rule_minsize": false,
+                    "part_rule_focus": false,
+                    "part_rule_close": false,
+                    "part_rule_dup": true,
+                    "part_rule_cont": false,
+                    "part_rule_out": true,
+                    "part_rule_adjust": false,
+                    "part_adjustable": true,
+                    "part_group_replace": "",
+                    "part_damage_type": "",
+                    "damage-scratch-area": "",
+                    "damage-scratch-ratio": "",
+                    "damage-dent-area": "",
+                    "damage-dent-ratio": "",
+                    "damage-dent_press-area": "",
+                    "damage-dent_press-ratio": "",
+                    "damage-complex_damage-area": "",
+                    "damage-complex_damage-ratio": "",
+                    "damage-broken-area": "",
+                    "damage-broken-ratio": "",
+                    "damage-summary-area": "",
+                    "damage-summary-ratio": 0.0,
+                    "damage-result-area": "",
+                    "damage-result-ratio": "",
+                    "damage-result-section": [
+                        "DGRGXX"
+                    ],
+                    "damage-result-list": "no_complex",
+                    "damage-result-code": "DGCLXX",
+                    "index": 2,
+                    "merging_selected": false,
+                    "merging_rank": 1,
+                    "summary_result": false,
+                    "summary_adjust": false
+                },
+                {
+                    "part_name": "trunk",
+                    "part_score": 0.971,
+                    "part_inbox_ratio": 0.8506,
+                    "part_rule_minsize": false,
+                    "part_rule_focus": false,
+                    "part_rule_close": false,
+                    "part_rule_dup": false,
+                    "part_rule_cont": false,
+                    "part_rule_out": false,
+                    "part_rule_adjust": false,
+                    "part_adjustable": false,
+                    "part_group_replace": "",
+                    "part_damage_type": "",
+                    "damage-scratch-area": "",
+                    "damage-scratch-ratio": "",
+                    "damage-dent-area": "",
+                    "damage-dent-ratio": "",
+                    "damage-dent_press-area": "",
+                    "damage-dent_press-ratio": "",
+                    "damage-complex_damage-area": "",
+                    "damage-complex_damage-ratio": "",
+                    "damage-broken-area": "",
+                    "damage-broken-ratio": "",
+                    "damage-summary-area": "",
+                    "damage-summary-ratio": 0.0,
+                    "damage-result-area": "",
+                    "damage-result-ratio": "",
+                    "damage-result-section": [
+                        "DGRGXX"
+                    ],
+                    "damage-result-list": "no_complex",
+                    "damage-result-code": "DGCLXX",
+                    "index": 3,
+                    "merging_selected": true,
+                    "merging_rank": 1,
+                    "summary_result": true,
+                    "summary_adjust": false
+                },
+                {
+                    "part_name": "rear_lamp_right",
+                    "part_score": 0.9601,
+                    "part_inbox_ratio": 0.0,
+                    "part_rule_minsize": false,
+                    "part_rule_focus": true,
+                    "part_rule_close": false,
+                    "part_rule_dup": false,
+                    "part_rule_cont": false,
+                    "part_rule_out": true,
+                    "part_rule_adjust": false,
+                    "part_adjustable": true,
+                    "part_group_replace": "",
+                    "part_damage_type": "",
+                    "damage-scratch-area": "",
+                    "damage-scratch-ratio": "",
+                    "damage-dent-area": "",
+                    "damage-dent-ratio": "",
+                    "damage-dent_press-area": "",
+                    "damage-dent_press-ratio": "",
+                    "damage-complex_damage-area": "",
+                    "damage-complex_damage-ratio": "",
+                    "damage-broken-area": "",
+                    "damage-broken-ratio": "",
+                    "damage-summary-area": "",
+                    "damage-summary-ratio": 0.0,
+                    "damage-result-area": "",
+                    "damage-result-ratio": "",
+                    "damage-result-section": [
+                        "DGRGXX"
+                    ],
+                    "damage-result-list": "no_complex",
+                    "damage-result-code": "DGCLXX",
+                    "index": 4,
+                    "merging_selected": false,
+                    "merging_rank": 1,
+                    "summary_result": false,
+                    "summary_adjust": false
+                }
+            ]
+        },
+        {
+            "file": [
+                {
+                    "file_index": 1,
+                    "url": "./input/images/images_1026_AM/test/001/images/102-06-10878_20170813187_9613_606108.jpg",
+                    "shape": [
+                        600,
+                        800,
+                        3
+                    ],
+                    "service_code": [
+                        "AISC00"
+                    ],
+                    "mobile_class": "",
+                    "mobile_mode": "",
+                    "mobile_tiny": "",
+                    "mobile_part_code": "",
+                    "mobile_part_name": "",
+                    "aos_part_code": "",
+                    "aos_part_name": "",
+                    "aos_part_group": ""
+                }
+            ],
+            "filter": [
+                {
+                    "filter_class": 0,
+                    "filter_class_name": "Normal",
+                    "filter_score": 1.0,
+                    "filter_probs": [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    "filter_code": "AIFT00"
+                }
+            ],
+            "part": [
+                {
+                    "part_name": "hood",
+                    "part_score": 0.9972,
+                    "part_inbox_ratio": 0.0,
+                    "part_rule_minsize": false,
+                    "part_rule_focus": true,
+                    "part_rule_close": false,
+                    "part_rule_dup": false,
+                    "part_rule_cont": false,
+                    "part_rule_out": true,
+                    "part_rule_adjust": false,
+                    "part_adjustable": true,
+                    "part_group_replace": "",
+                    "part_damage_type": "",
+                    "damage-scratch-area": "",
+                    "damage-scratch-ratio": "",
+                    "damage-dent-area": "",
+                    "damage-dent-ratio": "",
+                    "damage-dent_press-area": "",
+                    "damage-dent_press-ratio": "",
+                    "damage-complex_damage-area": "",
+                    "damage-complex_damage-ratio": "",
+                    "damage-broken-area": "",
+                    "damage-broken-ratio": "",
+                    "damage-summary-area": "",
+                    "damage-summary-ratio": 0.0,
+                    "damage-result-area": "",
+                    "damage-result-ratio": "",
+                    "damage-result-section": [
+                        "DGRGXX"
+                    ],
+                    "damage-result-list": "no_complex",
+                    "damage-result-code": "DGCLXX",
+                    "index": 5,
+                    "merging_selected": false,
+                    "merging_rank": 1,
+                    "summary_result": false,
+                    "summary_adjust": false
+                },
+                {
+                    "part_name": "front_door_left",
+                    "part_score": 0.9981,
+                    "part_inbox_ratio": 0.0,
+                    "part_rule_minsize": false,
+                    "part_rule_focus": true,
+                    "part_rule_close": false,
+                    "part_rule_dup": false,
+                    "part_rule_cont": false,
+                    "part_rule_out": true,
+                    "part_rule_adjust": false,
+                    "part_adjustable": true,
+                    "part_group_replace": "",
+                    "part_damage_type": "",
+                    "damage-scratch-area": "",
+                    "damage-scratch-ratio": "",
+                    "damage-dent-area": "",
+                    "damage-dent-ratio": "",
+                    "damage-dent_press-area": "",
+                    "damage-dent_press-ratio": "",
+                    "damage-complex_damage-area": "",
+                    "damage-complex_damage-ratio": "",
+                    "damage-broken-area": "",
+                    "damage-broken-ratio": "",
+                    "damage-summary-area": "",
+                    "damage-summary-ratio": 0.0,
+                    "damage-result-area": "",
+                    "damage-result-ratio": "",
+                    "damage-result-section": [
+                        "DGRGXX"
+                    ],
+                    "damage-result-list": "no_complex",
+                    "damage-result-code": "DGCLXX",
+                    "index": 6,
+                    "merging_selected": false,
+                    "merging_rank": 1,
+                    "summary_result": false,
+                    "summary_adjust": false
+                },
+                {
+                    "part_name": "front_fender_left",
+                    "part_score": 0.999,
+                    "part_inbox_ratio": 1.0,
+                    "part_rule_minsize": false,
+                    "part_rule_focus": false,
+                    "part_rule_close": false,
+                    "part_rule_dup": false,
+                    "part_rule_cont": false,
+                    "part_rule_out": false,
+                    "part_rule_adjust": false,
+                    "part_adjustable": false,
+                    "part_group_replace": "",
+                    "part_damage_type": [
+                        "complex_damage"
+                    ],
+                    "damage-scratch-area": "",
+                    "damage-scratch-ratio": "",
+                    "damage-dent-area": "",
+                    "damage-dent-ratio": "",
+                    "damage-dent_press-area": "",
+                    "damage-dent_press-ratio": "",
+                    "damage-complex_damage-area": 130945.5017,
+                    "damage-complex_damage-ratio": 0.8599,
+                    "damage-broken-area": "",
+                    "damage-broken-ratio": "",
+                    "damage-summary-area": 130945.5017,
+                    "damage-summary-ratio": 0.8599,
+                    "damage-result-area": 130945.5017,
+                    "damage-result-ratio": 0.8599,
+                    "damage-result-section": [
+                        "DGRGXX"
+                    ],
+                    "damage-result-list": "complex_damage",
+                    "damage-result-code": "DGCL06",
+                    "index": 7,
+                    "merging_selected": true,
+                    "merging_rank": 1,
+                    "summary_result": true,
+                    "summary_adjust": false
+                },
+                {
+                    "part_name": "side_mirror_left",
+                    "part_score": 0.9993,
+                    "part_inbox_ratio": 0.0,
+                    "part_rule_minsize": false,
+                    "part_rule_focus": true,
+                    "part_rule_close": false,
+                    "part_rule_dup": false,
+                    "part_rule_cont": false,
+                    "part_rule_out": true,
+                    "part_rule_adjust": false,
+                    "part_adjustable": true,
+                    "part_group_replace": "",
+                    "part_damage_type": "",
+                    "damage-scratch-area": "",
+                    "damage-scratch-ratio": "",
+                    "damage-dent-area": "",
+                    "damage-dent-ratio": "",
+                    "damage-dent_press-area": "",
+                    "damage-dent_press-ratio": "",
+                    "damage-complex_damage-area": "",
+                    "damage-complex_damage-ratio": "",
+                    "damage-broken-area": "",
+                    "damage-broken-ratio": "",
+                    "damage-summary-area": "",
+                    "damage-summary-ratio": 0.0,
+                    "damage-result-area": "",
+                    "damage-result-ratio": "",
+                    "damage-result-section": [
+                        "DGRGXX"
+                    ],
+                    "damage-result-list": "no_complex",
+                    "damage-result-code": "DGCLXX",
+                    "index": 8,
+                    "merging_selected": false,
+                    "merging_rank": 1,
+                    "summary_result": false,
+                    "summary_adjust": false
+                },
+                {
+                    "part_name": "front_bumper",
+                    "part_score": 0.9962,
+                    "part_inbox_ratio": 0.0247,
+                    "part_rule_minsize": false,
+                    "part_rule_focus": false,
+                    "part_rule_close": false,
+                    "part_rule_dup": false,
+                    "part_rule_cont": false,
+                    "part_rule_out": false,
+                    "part_rule_adjust": false,
+                    "part_adjustable": false,
+                    "part_group_replace": "",
+                    "part_damage_type": "",
+                    "damage-scratch-area": "",
+                    "damage-scratch-ratio": "",
+                    "damage-dent-area": "",
+                    "damage-dent-ratio": "",
+                    "damage-dent_press-area": "",
+                    "damage-dent_press-ratio": "",
+                    "damage-complex_damage-area": "",
+                    "damage-complex_damage-ratio": "",
+                    "damage-broken-area": "",
+                    "damage-broken-ratio": "",
+                    "damage-summary-area": "",
+                    "damage-summary-ratio": 0.0,
+                    "damage-result-area": "",
+                    "damage-result-ratio": "",
+                    "damage-result-section": [
+                        "DGRGXX"
+                    ],
+                    "damage-result-list": "no_complex",
+                    "damage-result-code": "DGCLXX",
+                    "index": 9,
+                    "merging_selected": true,
+                    "merging_rank": 1,
+                    "summary_result": true,
+                    "summary_adjust": false
+                },
+                {
+                    "part_name": "front_lamp_left",
+                    "part_score": 0.9897,
+                    "part_inbox_ratio": 0.0,
+                    "part_rule_minsize": false,
+                    "part_rule_focus": true,
+                    "part_rule_close": false,
+                    "part_rule_dup": false,
+                    "part_rule_cont": false,
+                    "part_rule_out": true,
+                    "part_rule_adjust": false,
+                    "part_adjustable": true,
+                    "part_group_replace": "",
+                    "part_damage_type": "",
+                    "damage-scratch-area": "",
+                    "damage-scratch-ratio": "",
+                    "damage-dent-area": "",
+                    "damage-dent-ratio": "",
+                    "damage-dent_press-area": "",
+                    "damage-dent_press-ratio": "",
+                    "damage-complex_damage-area": "",
+                    "damage-complex_damage-ratio": "",
+                    "damage-broken-area": "",
+                    "damage-broken-ratio": "",
+                    "damage-summary-area": "",
+                    "damage-summary-ratio": 0.0,
+                    "damage-result-area": "",
+                    "damage-result-ratio": "",
+                    "damage-result-section": [
+                        "DGRGXX"
+                    ],
+                    "damage-result-list": "no_complex",
+                    "damage-result-code": "DGCLXX",
+                    "index": 10,
+                    "merging_selected": false,
+                    "merging_rank": 1,
+                    "summary_result": false,
+                    "summary_adjust": false
+                }
+            ]
+        },
+        {
+            "file": [
+                {
+                    "file_index": 2,
+                    "url": "./input/images/images_1026_AM/test/001/images/105-03-67423_201563357_64저3738_2054145.jpg",
+                    "shape": [
+                        600,
+                        800,
+                        3
+                    ],
+                    "service_code": [
+                        "AISC00"
+                    ],
+                    "mobile_class": "",
+                    "mobile_mode": "",
+                    "mobile_tiny": "",
+                    "mobile_part_code": "",
+                    "mobile_part_name": "",
+                    "aos_part_code": "",
+                    "aos_part_name": "",
+                    "aos_part_group": ""
+                }
+            ],
+            "filter": [
+                {
+                    "filter_class": 0,
+                    "filter_class_name": "Normal",
+                    "filter_score": 1.0,
+                    "filter_probs": [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    "filter_code": "AIFT00"
+                }
+            ],
+            "part": [
+                {
+                    "part_name": "rear_bumper",
+                    "part_score": 0.9997,
+                    "part_inbox_ratio": 0.5308,
+                    "part_rule_minsize": false,
+                    "part_rule_focus": false,
+                    "part_rule_close": false,
+                    "part_rule_dup": false,
+                    "part_rule_cont": false,
+                    "part_rule_out": false,
+                    "part_rule_adjust": false,
+                    "part_adjustable": false,
+                    "part_group_replace": "",
+                    "part_damage_type": "",
+                    "damage-scratch-area": "",
+                    "damage-scratch-ratio": "",
+                    "damage-dent-area": "",
+                    "damage-dent-ratio": "",
+                    "damage-dent_press-area": "",
+                    "damage-dent_press-ratio": "",
+                    "damage-complex_damage-area": "",
+                    "damage-complex_damage-ratio": "",
+                    "damage-broken-area": "",
+                    "damage-broken-ratio": "",
+                    "damage-summary-area": "",
+                    "damage-summary-ratio": 0.0,
+                    "damage-result-area": "",
+                    "damage-result-ratio": "",
+                    "damage-result-section": [
+                        "DGRGXX"
+                    ],
+                    "damage-result-list": "no_complex",
+                    "damage-result-code": "DGCLXX",
+                    "index": 11,
+                    "merging_selected": true,
+                    "merging_rank": 2,
+                    "summary_result": false,
+                    "summary_adjust": false
+                },
+                {
+                    "part_name": "rear_fender_left",
+                    "part_score": 0.9998,
+                    "part_inbox_ratio": 0.9378,
+                    "part_rule_minsize": false,
+                    "part_rule_focus": false,
+                    "part_rule_close": false,
+                    "part_rule_dup": false,
+                    "part_rule_cont": false,
+                    "part_rule_out": false,
+                    "part_rule_adjust": false,
+                    "part_adjustable": false,
+                    "part_group_replace": "",
+                    "part_damage_type": [
+                        "dent"
+                    ],
+                    "damage-scratch-area": "",
+                    "damage-scratch-ratio": "",
+                    "damage-dent-area": 14782.0215,
+                    "damage-dent-ratio": 0.1517,
+                    "damage-dent_press-area": "",
+                    "damage-dent_press-ratio": "",
+                    "damage-complex_damage-area": "",
+                    "damage-complex_damage-ratio": "",
+                    "damage-broken-area": "",
+                    "damage-broken-ratio": "",
+                    "damage-summary-area": 14782.0215,
+                    "damage-summary-ratio": 0.1517,
+                    "damage-result-area": "",
+                    "damage-result-ratio": 0.1517,
+                    "damage-result-section": [
+                        "DGRGXX"
+                    ],
+                    "damage-result-list": "no_complex",
+                    "damage-result-code": "DGCLXX",
+                    "index": 12,
+                    "merging_selected": true,
+                    "merging_rank": 1,
+                    "summary_result": true,
+                    "summary_adjust": false
+                },
+                {
+                    "part_name": "side_mirror_left",
+                    "part_score": 0.9269,
+                    "part_inbox_ratio": 0.0,
+                    "part_rule_minsize": false,
+                    "part_rule_focus": true,
+                    "part_rule_close": false,
+                    "part_rule_dup": false,
+                    "part_rule_cont": false,
+                    "part_rule_out": true,
+                    "part_rule_adjust": false,
+                    "part_adjustable": true,
+                    "part_group_replace": "",
+                    "part_damage_type": "",
+                    "damage-scratch-area": "",
+                    "damage-scratch-ratio": "",
+                    "damage-dent-area": "",
+                    "damage-dent-ratio": "",
+                    "damage-dent_press-area": "",
+                    "damage-dent_press-ratio": "",
+                    "damage-complex_damage-area": "",
+                    "damage-complex_damage-ratio": "",
+                    "damage-broken-area": "",
+                    "damage-broken-ratio": "",
+                    "damage-summary-area": "",
+                    "damage-summary-ratio": 0.0,
+                    "damage-result-area": "",
+                    "damage-result-ratio": "",
+                    "damage-result-section": [
+                        "DGRGXX"
+                    ],
+                    "damage-result-list": "no_complex",
+                    "damage-result-code": "DGCLXX",
+                    "index": 13,
+                    "merging_selected": false,
+                    "merging_rank": 1,
+                    "summary_result": false,
+                    "summary_adjust": false
+                },
+                {
+                    "part_name": "rear_door_left",
+                    "part_score": 0.9999,
+                    "part_inbox_ratio": 0.3928,
+                    "part_rule_minsize": false,
+                    "part_rule_focus": false,
+                    "part_rule_close": false,
+                    "part_rule_dup": false,
+                    "part_rule_cont": false,
+                    "part_rule_out": false,
+                    "part_rule_adjust": false,
+                    "part_adjustable": false,
+                    "part_group_replace": "",
+                    "part_damage_type": "",
+                    "damage-scratch-area": "",
+                    "damage-scratch-ratio": "",
+                    "damage-dent-area": "",
+                    "damage-dent-ratio": "",
+                    "damage-dent_press-area": "",
+                    "damage-dent_press-ratio": "",
+                    "damage-complex_damage-area": "",
+                    "damage-complex_damage-ratio": "",
+                    "damage-broken-area": "",
+                    "damage-broken-ratio": "",
+                    "damage-summary-area": "",
+                    "damage-summary-ratio": 0.0,
+                    "damage-result-area": "",
+                    "damage-result-ratio": "",
+                    "damage-result-section": [
+                        "DGRGXX"
+                    ],
+                    "damage-result-list": "no_complex",
+                    "damage-result-code": "DGCLXX",
+                    "index": 14,
+                    "merging_selected": true,
+                    "merging_rank": 1,
+                    "summary_result": true,
+                    "summary_adjust": false
+                },
+                {
+                    "part_name": "rear_lamp_left",
+                    "part_score": 0.9822,
+                    "part_inbox_ratio": 0.0462,
+                    "part_rule_minsize": false,
+                    "part_rule_focus": false,
+                    "part_rule_close": false,
+                    "part_rule_dup": false,
+                    "part_rule_cont": false,
+                    "part_rule_out": false,
+                    "part_rule_adjust": false,
+                    "part_adjustable": false,
+                    "part_group_replace": "",
+                    "part_damage_type": "",
+                    "damage-scratch-area": "",
+                    "damage-scratch-ratio": "",
+                    "damage-dent-area": "",
+                    "damage-dent-ratio": "",
+                    "damage-dent_press-area": "",
+                    "damage-dent_press-ratio": "",
+                    "damage-complex_damage-area": "",
+                    "damage-complex_damage-ratio": "",
+                    "damage-broken-area": "",
+                    "damage-broken-ratio": "",
+                    "damage-summary-area": "",
+                    "damage-summary-ratio": 0.0,
+                    "damage-result-area": "",
+                    "damage-result-ratio": "",
+                    "damage-result-section": [
+                        "DGRGXX"
+                    ],
+                    "damage-result-list": "no_complex",
+                    "damage-result-code": "DGCLXX",
+                    "index": 15,
+                    "merging_selected": true,
+                    "merging_rank": 1,
+                    "summary_result": false,
+                    "summary_adjust": false
+                },
+                {
+                    "part_name": "front_door_left",
+                    "part_score": 0.9943,
+                    "part_inbox_ratio": 0.0,
+                    "part_rule_minsize": false,
+                    "part_rule_focus": true,
+                    "part_rule_close": false,
+                    "part_rule_dup": false,
+                    "part_rule_cont": false,
+                    "part_rule_out": true,
+                    "part_rule_adjust": false,
+                    "part_adjustable": true,
+                    "part_group_replace": "",
+                    "part_damage_type": "",
+                    "damage-scratch-area": "",
+                    "damage-scratch-ratio": "",
+                    "damage-dent-area": "",
+                    "damage-dent-ratio": "",
+                    "damage-dent_press-area": "",
+                    "damage-dent_press-ratio": "",
+                    "damage-complex_damage-area": "",
+                    "damage-complex_damage-ratio": "",
+                    "damage-broken-area": "",
+                    "damage-broken-ratio": "",
+                    "damage-summary-area": "",
+                    "damage-summary-ratio": 0.0,
+                    "damage-result-area": "",
+                    "damage-result-ratio": "",
+                    "damage-result-section": [
+                        "DGRGXX"
+                    ],
+                    "damage-result-list": "no_complex",
+                    "damage-result-code": "DGCLXX",
+                    "index": 16,
+                    "merging_selected": false,
+                    "merging_rank": 1,
+                    "summary_result": false,
+                    "summary_adjust": false
+                },
+                {
+                    "part_name": "side_step_left",
+                    "part_score": 0.9953,
+                    "part_inbox_ratio": 0.0,
+                    "part_rule_minsize": false,
+                    "part_rule_focus": true,
+                    "part_rule_close": false,
+                    "part_rule_dup": false,
+                    "part_rule_cont": false,
+                    "part_rule_out": true,
+                    "part_rule_adjust": false,
+                    "part_adjustable": true,
+                    "part_group_replace": "",
+                    "part_damage_type": "",
+                    "damage-scratch-area": "",
+                    "damage-scratch-ratio": "",
+                    "damage-dent-area": "",
+                    "damage-dent-ratio": "",
+                    "damage-dent_press-area": "",
+                    "damage-dent_press-ratio": "",
+                    "damage-complex_damage-area": "",
+                    "damage-complex_damage-ratio": "",
+                    "damage-broken-area": "",
+                    "damage-broken-ratio": "",
+                    "damage-summary-area": "",
+                    "damage-summary-ratio": 0.0,
+                    "damage-result-area": "",
+                    "damage-result-ratio": "",
+                    "damage-result-section": [
+                        "DGRGXX"
+                    ],
+                    "damage-result-list": "no_complex",
+                    "damage-result-code": "DGCLXX",
+                    "index": 17,
+                    "merging_selected": false,
+                    "merging_rank": 1,
+                    "summary_result": false,
+                    "summary_adjust": false
+                },
+                {
+                    "part_name": "back_door",
+                    "part_score": 0.9925,
+                    "part_inbox_ratio": 0.0282,
+                    "part_rule_minsize": false,
+                    "part_rule_focus": false,
+                    "part_rule_close": false,
+                    "part_rule_dup": true,
+                    "part_rule_cont": false,
+                    "part_rule_out": true,
+                    "part_rule_adjust": false,
+                    "part_adjustable": true,
+                    "part_group_replace": "",
+                    "part_damage_type": "",
+                    "damage-scratch-area": "",
+                    "damage-scratch-ratio": "",
+                    "damage-dent-area": "",
+                    "damage-dent-ratio": "",
+                    "damage-dent_press-area": "",
+                    "damage-dent_press-ratio": "",
+                    "damage-complex_damage-area": "",
+                    "damage-complex_damage-ratio": "",
+                    "damage-broken-area": "",
+                    "damage-broken-ratio": "",
+                    "damage-summary-area": "",
+                    "damage-summary-ratio": 0.0,
+                    "damage-result-area": "",
+                    "damage-result-ratio": "",
+                    "damage-result-section": [
+                        "DGRGXX"
+                    ],
+                    "damage-result-list": "no_complex",
+                    "damage-result-code": "DGCLXX",
+                    "index": 18,
+                    "merging_selected": false,
+                    "merging_rank": 1,
+                    "summary_result": false,
+                    "summary_adjust": false
+                }
+            ]
+        },
+        {
+            "file": [
+                {
+                    "file_index": 3,
+                    "url": "./input/images/images_1026_AM/test/001/images/105-41-61644_20110513259_55마2492_71949.jpg",
+                    "shape": [
+                        600,
+                        800,
+                        3
+                    ],
+                    "service_code": [
+                        "AISC00"
+                    ],
+                    "mobile_class": "",
+                    "mobile_mode": "",
+                    "mobile_tiny": "",
+                    "mobile_part_code": "",
+                    "mobile_part_name": "",
+                    "aos_part_code": "",
+                    "aos_part_name": "",
+                    "aos_part_group": ""
+                }
+            ],
+            "filter": [
+                {
+                    "filter_class": 0,
+                    "filter_class_name": "Normal",
+                    "filter_score": 1.0,
+                    "filter_probs": [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    "filter_code": "AIFT00"
+                }
+            ],
+            "part": [
+                {
+                    "part_name": "rear_door_right",
+                    "part_score": 0.9997,
+                    "part_inbox_ratio": 1.0,
+                    "part_rule_minsize": false,
+                    "part_rule_focus": false,
+                    "part_rule_close": false,
+                    "part_rule_dup": false,
+                    "part_rule_cont": false,
+                    "part_rule_out": false,
+                    "part_rule_adjust": false,
+                    "part_adjustable": false,
+                    "part_group_replace": "",
+                    "part_damage_type": [
+                        "scratch"
+                    ],
+                    "damage-scratch-area": 7236.8018,
+                    "damage-scratch-ratio": 0.0464,
+                    "damage-dent-area": "",
+                    "damage-dent-ratio": "",
+                    "damage-dent_press-area": "",
+                    "damage-dent_press-ratio": "",
+                    "damage-complex_damage-area": "",
+                    "damage-complex_damage-ratio": "",
+                    "damage-broken-area": "",
+                    "damage-broken-ratio": "",
+                    "damage-summary-area": 7236.8018,
+                    "damage-summary-ratio": 0.0464,
+                    "damage-result-area": "",
+                    "damage-result-ratio": 0.0464,
+                    "damage-result-section": [
+                        "DGRGXX"
+                    ],
+                    "damage-result-list": "no_complex",
+                    "damage-result-code": "DGCLXX",
+                    "index": 19,
+                    "merging_selected": true,
+                    "merging_rank": 1,
+                    "summary_result": true,
+                    "summary_adjust": false
+                },
+                {
+                    "part_name": "rear_fender_right",
+                    "part_score": 0.9962,
+                    "part_inbox_ratio": 0.1807,
+                    "part_rule_minsize": false,
+                    "part_rule_focus": false,
+                    "part_rule_close": false,
+                    "part_rule_dup": true,
+                    "part_rule_cont": false,
+                    "part_rule_out": true,
+                    "part_rule_adjust": false,
+                    "part_adjustable": true,
+                    "part_group_replace": "",
+                    "part_damage_type": "",
+                    "damage-scratch-area": "",
+                    "damage-scratch-ratio": "",
+                    "damage-dent-area": "",
+                    "damage-dent-ratio": "",
+                    "damage-dent_press-area": "",
+                    "damage-dent_press-ratio": "",
+                    "damage-complex_damage-area": "",
+                    "damage-complex_damage-ratio": "",
+                    "damage-broken-area": "",
+                    "damage-broken-ratio": "",
+                    "damage-summary-area": "",
+                    "damage-summary-ratio": 0.0,
+                    "damage-result-area": "",
+                    "damage-result-ratio": "",
+                    "damage-result-section": [
+                        "DGRGXX"
+                    ],
+                    "damage-result-list": "no_complex",
+                    "damage-result-code": "DGCLXX",
+                    "index": 20,
+                    "merging_selected": false,
+                    "merging_rank": 1,
+                    "summary_result": false,
+                    "summary_adjust": false
+                },
+                {
+                    "part_name": "side_step_right",
+                    "part_score": 0.9955,
+                    "part_inbox_ratio": 0.4473,
+                    "part_rule_minsize": false,
+                    "part_rule_focus": false,
+                    "part_rule_close": false,
+                    "part_rule_dup": false,
+                    "part_rule_cont": false,
+                    "part_rule_out": false,
+                    "part_rule_adjust": false,
+                    "part_adjustable": false,
+                    "part_group_replace": "",
+                    "part_damage_type": "",
+                    "damage-scratch-area": "",
+                    "damage-scratch-ratio": "",
+                    "damage-dent-area": "",
+                    "damage-dent-ratio": "",
+                    "damage-dent_press-area": "",
+                    "damage-dent_press-ratio": "",
+                    "damage-complex_damage-area": "",
+                    "damage-complex_damage-ratio": "",
+                    "damage-broken-area": "",
+                    "damage-broken-ratio": "",
+                    "damage-summary-area": "",
+                    "damage-summary-ratio": 0.0,
+                    "damage-result-area": "",
+                    "damage-result-ratio": "",
+                    "damage-result-section": [
+                        "DGRGXX"
+                    ],
+                    "damage-result-list": "no_complex",
+                    "damage-result-code": "DGCLXX",
+                    "index": 21,
+                    "merging_selected": true,
+                    "merging_rank": 1,
+                    "summary_result": true,
+                    "summary_adjust": false
+                },
+                {
+                    "part_name": "side_mirror_right",
+                    "part_score": 0.983,
+                    "part_inbox_ratio": 0.0,
+                    "part_rule_minsize": false,
+                    "part_rule_focus": true,
+                    "part_rule_close": false,
+                    "part_rule_dup": false,
+                    "part_rule_cont": false,
+                    "part_rule_out": true,
+                    "part_rule_adjust": false,
+                    "part_adjustable": true,
+                    "part_group_replace": "",
+                    "part_damage_type": "",
+                    "damage-scratch-area": "",
+                    "damage-scratch-ratio": "",
+                    "damage-dent-area": "",
+                    "damage-dent-ratio": "",
+                    "damage-dent_press-area": "",
+                    "damage-dent_press-ratio": "",
+                    "damage-complex_damage-area": "",
+                    "damage-complex_damage-ratio": "",
+                    "damage-broken-area": "",
+                    "damage-broken-ratio": "",
+                    "damage-summary-area": "",
+                    "damage-summary-ratio": 0.0,
+                    "damage-result-area": "",
+                    "damage-result-ratio": "",
+                    "damage-result-section": [
+                        "DGRGXX"
+                    ],
+                    "damage-result-list": "no_complex",
+                    "damage-result-code": "DGCLXX",
+                    "index": 22,
+                    "merging_selected": false,
+                    "merging_rank": 1,
+                    "summary_result": false,
+                    "summary_adjust": false
+                },
+                {
+                    "part_name": "rear_door_left",
+                    "part_score": 0.9206,
+                    "part_inbox_ratio": 0.0,
+                    "part_rule_minsize": false,
+                    "part_rule_focus": true,
+                    "part_rule_close": false,
+                    "part_rule_dup": true,
+                    "part_rule_cont": false,
+                    "part_rule_out": true,
+                    "part_rule_adjust": false,
+                    "part_adjustable": true,
+                    "part_group_replace": "",
+                    "part_damage_type": "",
+                    "damage-scratch-area": "",
+                    "damage-scratch-ratio": "",
+                    "damage-dent-area": "",
+                    "damage-dent-ratio": "",
+                    "damage-dent_press-area": "",
+                    "damage-dent_press-ratio": "",
+                    "damage-complex_damage-area": "",
+                    "damage-complex_damage-ratio": "",
+                    "damage-broken-area": "",
+                    "damage-broken-ratio": "",
+                    "damage-summary-area": "",
+                    "damage-summary-ratio": 0.0,
+                    "damage-result-area": "",
+                    "damage-result-ratio": "",
+                    "damage-result-section": [
+                        "DGRGXX"
+                    ],
+                    "damage-result-list": "no_complex",
+                    "damage-result-code": "DGCLXX",
+                    "index": 23,
+                    "merging_selected": false,
+                    "merging_rank": 1,
+                    "summary_result": false,
+                    "summary_adjust": false
+                },
+                {
+                    "part_name": "front_door_right",
+                    "part_score": 0.9973,
+                    "part_inbox_ratio": 0.0686,
+                    "part_rule_minsize": false,
+                    "part_rule_focus": false,
+                    "part_rule_close": false,
+                    "part_rule_dup": false,
+                    "part_rule_cont": false,
+                    "part_rule_out": false,
+                    "part_rule_adjust": false,
+                    "part_adjustable": false,
+                    "part_group_replace": "",
+                    "part_damage_type": "",
+                    "damage-scratch-area": "",
+                    "damage-scratch-ratio": "",
+                    "damage-dent-area": "",
+                    "damage-dent-ratio": "",
+                    "damage-dent_press-area": "",
+                    "damage-dent_press-ratio": "",
+                    "damage-complex_damage-area": "",
+                    "damage-complex_damage-ratio": "",
+                    "damage-broken-area": "",
+                    "damage-broken-ratio": "",
+                    "damage-summary-area": "",
+                    "damage-summary-ratio": 0.0,
+                    "damage-result-area": "",
+                    "damage-result-ratio": "",
+                    "damage-result-section": [
+                        "DGRGXX"
+                    ],
+                    "damage-result-list": "no_complex",
+                    "damage-result-code": "DGCLXX",
+                    "index": 24,
+                    "merging_selected": true,
+                    "merging_rank": 1,
+                    "summary_result": true,
+                    "summary_adjust": false
+                }
+            ]
+        },
+        {
+            "file": [
+                {
+                    "file_index": 4,
+                    "url": "./input/images/images_1026_AM/test/001/images/105-41-76166_1512087727_48우9364_358932.jpg",
+                    "shape": [
+                        600,
+                        800,
+                        3
+                    ],
+                    "service_code": [
+                        "AISC00"
+                    ],
+                    "mobile_class": "",
+                    "mobile_mode": "",
+                    "mobile_tiny": "",
+                    "mobile_part_code": "",
+                    "mobile_part_name": "",
+                    "aos_part_code": "",
+                    "aos_part_name": "",
+                    "aos_part_group": ""
+                }
+            ],
+            "filter": [
+                {
+                    "filter_class": 0,
+                    "filter_class_name": "Normal",
+                    "filter_score": 1.0,
+                    "filter_probs": [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    "filter_code": "AIFT00"
+                }
+            ],
+            "part": [
+                {
+                    "part_name": "front_door_right",
+                    "part_score": 0.9409,
+                    "part_inbox_ratio": 0.0,
+                    "part_rule_minsize": false,
+                    "part_rule_focus": true,
+                    "part_rule_close": false,
+                    "part_rule_dup": false,
+                    "part_rule_cont": false,
+                    "part_rule_out": true,
+                    "part_rule_adjust": false,
+                    "part_adjustable": true,
+                    "part_group_replace": "",
+                    "part_damage_type": "",
+                    "damage-scratch-area": "",
+                    "damage-scratch-ratio": "",
+                    "damage-dent-area": "",
+                    "damage-dent-ratio": "",
+                    "damage-dent_press-area": "",
+                    "damage-dent_press-ratio": "",
+                    "damage-complex_damage-area": "",
+                    "damage-complex_damage-ratio": "",
+                    "damage-broken-area": "",
+                    "damage-broken-ratio": "",
+                    "damage-summary-area": "",
+                    "damage-summary-ratio": 0.0,
+                    "damage-result-area": "",
+                    "damage-result-ratio": "",
+                    "damage-result-section": [
+                        "DGRGXX"
+                    ],
+                    "damage-result-list": "no_complex",
+                    "damage-result-code": "DGCLXX",
+                    "index": 25,
+                    "merging_selected": false,
+                    "merging_rank": 1,
+                    "summary_result": false,
+                    "summary_adjust": false
+                },
+                {
+                    "part_name": "side_step_right",
+                    "part_score": 0.9821,
+                    "part_inbox_ratio": 0.0,
+                    "part_rule_minsize": false,
+                    "part_rule_focus": true,
+                    "part_rule_close": false,
+                    "part_rule_dup": false,
+                    "part_rule_cont": false,
+                    "part_rule_out": true,
+                    "part_rule_adjust": false,
+                    "part_adjustable": true,
+                    "part_group_replace": "",
+                    "part_damage_type": "",
+                    "damage-scratch-area": "",
+                    "damage-scratch-ratio": "",
+                    "damage-dent-area": "",
+                    "damage-dent-ratio": "",
+                    "damage-dent_press-area": "",
+                    "damage-dent_press-ratio": "",
+                    "damage-complex_damage-area": "",
+                    "damage-complex_damage-ratio": "",
+                    "damage-broken-area": "",
+                    "damage-broken-ratio": "",
+                    "damage-summary-area": "",
+                    "damage-summary-ratio": 0.0,
+                    "damage-result-area": "",
+                    "damage-result-ratio": "",
+                    "damage-result-section": [
+                        "DGRGXX"
+                    ],
+                    "damage-result-list": "no_complex",
+                    "damage-result-code": "DGCLXX",
+                    "index": 26,
+                    "merging_selected": false,
+                    "merging_rank": 1,
+                    "summary_result": false,
+                    "summary_adjust": false
+                },
+                {
+                    "part_name": "rear_door_right",
+                    "part_score": 0.996,
+                    "part_inbox_ratio": 1.0,
+                    "part_rule_minsize": false,
+                    "part_rule_focus": false,
+                    "part_rule_close": false,
+                    "part_rule_dup": false,
+                    "part_rule_cont": false,
+                    "part_rule_out": false,
+                    "part_rule_adjust": false,
+                    "part_adjustable": false,
+                    "part_group_replace": "",
+                    "part_damage_type": "",
+                    "damage-scratch-area": "",
+                    "damage-scratch-ratio": "",
+                    "damage-dent-area": "",
+                    "damage-dent-ratio": "",
+                    "damage-dent_press-area": "",
+                    "damage-dent_press-ratio": "",
+                    "damage-complex_damage-area": "",
+                    "damage-complex_damage-ratio": "",
+                    "damage-broken-area": "",
+                    "damage-broken-ratio": "",
+                    "damage-summary-area": "",
+                    "damage-summary-ratio": 0.0,
+                    "damage-result-area": "",
+                    "damage-result-ratio": "",
+                    "damage-result-section": [
+                        "DGRGXX"
+                    ],
+                    "damage-result-list": "no_complex",
+                    "damage-result-code": "DGCLXX",
+                    "index": 27,
+                    "merging_selected": true,
+                    "merging_rank": 2,
+                    "summary_result": false,
+                    "summary_adjust": false
+                },
+                {
+                    "part_name": "rear_fender_right",
+                    "part_score": 0.9981,
+                    "part_inbox_ratio": 0.7259,
+                    "part_rule_minsize": false,
+                    "part_rule_focus": false,
+                    "part_rule_close": false,
+                    "part_rule_dup": false,
+                    "part_rule_cont": false,
+                    "part_rule_out": false,
+                    "part_rule_adjust": false,
+                    "part_adjustable": false,
+                    "part_group_replace": "",
+                    "part_damage_type": "",
+                    "damage-scratch-area": "",
+                    "damage-scratch-ratio": "",
+                    "damage-dent-area": "",
+                    "damage-dent-ratio": "",
+                    "damage-dent_press-area": "",
+                    "damage-dent_press-ratio": "",
+                    "damage-complex_damage-area": "",
+                    "damage-complex_damage-ratio": "",
+                    "damage-broken-area": "",
+                    "damage-broken-ratio": "",
+                    "damage-summary-area": "",
+                    "damage-summary-ratio": 0.0,
+                    "damage-result-area": "",
+                    "damage-result-ratio": "",
+                    "damage-result-section": [
+                        "DGRGXX"
+                    ],
+                    "damage-result-list": "no_complex",
+                    "damage-result-code": "DGCLXX",
+                    "index": 28,
+                    "merging_selected": true,
+                    "merging_rank": 1,
+                    "summary_result": false,
+                    "summary_adjust": false
+                }
+            ]
+        },
+        {
+            "file": [
+                {
+                    "file_index": 5,
+                    "url": "./input/images/images_1026_AM/test/001/images/515-06-56274_20161117321_8525_233331.jpg",
+                    "shape": [
+                        600,
+                        800,
+                        3
+                    ],
+                    "service_code": [
+                        "AISC00"
+                    ],
+                    "mobile_class": "",
+                    "mobile_mode": "",
+                    "mobile_tiny": "",
+                    "mobile_part_code": "",
+                    "mobile_part_name": "",
+                    "aos_part_code": "",
+                    "aos_part_name": "",
+                    "aos_part_group": ""
+                }
+            ],
+            "filter": [
+                {
+                    "filter_class": 0,
+                    "filter_class_name": "Normal",
+                    "filter_score": 1.0,
+                    "filter_probs": [
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    "filter_code": "AIFT00"
+                }
+            ],
+            "part": [
+                {
+                    "part_name": "side_step_right",
+                    "part_score": 0.9918,
+                    "part_inbox_ratio": 0.083,
+                    "part_rule_minsize": false,
+                    "part_rule_focus": false,
+                    "part_rule_close": false,
+                    "part_rule_dup": false,
+                    "part_rule_cont": false,
+                    "part_rule_out": false,
+                    "part_rule_adjust": false,
+                    "part_adjustable": false,
+                    "part_group_replace": "",
+                    "part_damage_type": "",
+                    "damage-scratch-area": "",
+                    "damage-scratch-ratio": "",
+                    "damage-dent-area": "",
+                    "damage-dent-ratio": "",
+                    "damage-dent_press-area": "",
+                    "damage-dent_press-ratio": "",
+                    "damage-complex_damage-area": "",
+                    "damage-complex_damage-ratio": "",
+                    "damage-broken-area": "",
+                    "damage-broken-ratio": "",
+                    "damage-summary-area": "",
+                    "damage-summary-ratio": 0.0,
+                    "damage-result-area": "",
+                    "damage-result-ratio": "",
+                    "damage-result-section": [
+                        "DGRGXX"
+                    ],
+                    "damage-result-list": "no_complex",
+                    "damage-result-code": "DGCLXX",
+                    "index": 29,
+                    "merging_selected": true,
+                    "merging_rank": 1,
+                    "summary_result": false,
+                    "summary_adjust": false
+                },
+                {
+                    "part_name": "rear_door_right",
+                    "part_score": 0.9455,
+                    "part_inbox_ratio": 1.0,
+                    "part_rule_minsize": false,
+                    "part_rule_focus": false,
+                    "part_rule_close": false,
+                    "part_rule_dup": false,
+                    "part_rule_cont": false,
+                    "part_rule_out": false,
+                    "part_rule_adjust": false,
+                    "part_adjustable": false,
+                    "part_group_replace": "",
+                    "part_damage_type": "",
+                    "damage-scratch-area": "",
+                    "damage-scratch-ratio": "",
+                    "damage-dent-area": "",
+                    "damage-dent-ratio": "",
+                    "damage-dent_press-area": "",
+                    "damage-dent_press-ratio": "",
+                    "damage-complex_damage-area": "",
+                    "damage-complex_damage-ratio": "",
+                    "damage-broken-area": "",
+                    "damage-broken-ratio": "",
+                    "damage-summary-area": "",
+                    "damage-summary-ratio": 0.0,
+                    "damage-result-area": "",
+                    "damage-result-ratio": "",
+                    "damage-result-section": [
+                        "DGRGXX"
+                    ],
+                    "damage-result-list": "no_complex",
+                    "damage-result-code": "DGCLXX",
+                    "index": 30,
+                    "merging_selected": true,
+                    "merging_rank": 2,
+                    "summary_result": false,
+                    "summary_adjust": false
+                }
+            ]
+        }
+    ],
+    "results": "success"
+}
